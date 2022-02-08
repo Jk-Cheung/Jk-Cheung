@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jk-Cheung
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DL, MM and Django
 - 📫 How to reach me: 
   - E-mail: jk.momiji1230@gmail.com
   - QQ: 1464615628
